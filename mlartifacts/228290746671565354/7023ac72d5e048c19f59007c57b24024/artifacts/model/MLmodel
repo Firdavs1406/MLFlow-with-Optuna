@@ -1,0 +1,33 @@
+artifact_path: model
+flavors:
+  catboost:
+    catboost_version: 1.2.5
+    code: null
+    data: model.cb
+    model_type: CatBoostClassifier
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.11.7
+mlflow_version: 2.19.0
+model_size_bytes: 306445
+model_uuid: bebf31beb31f4182b1f11e39ea292b7c
+run_id: 7023ac72d5e048c19f59007c57b24024
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "type", "required": true}, {"type": "double",
+    "name": "amount", "required": true}, {"type": "double", "name": "oldbalanceOrg",
+    "required": true}, {"type": "double", "name": "newbalanceOrig", "required": true},
+    {"type": "double", "name": "oldbalanceDest", "required": true}, {"type": "double",
+    "name": "newbalanceDest", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+utc_time_created: '2024-12-25 17:26:40.542304'
