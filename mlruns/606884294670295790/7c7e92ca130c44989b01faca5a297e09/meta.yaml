@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606884294670295790/7c7e92ca130c44989b01faca5a297e09/artifacts
+end_time: 1735151057224
+entry_point_name: ''
+experiment_id: '606884294670295790'
+lifecycle_stage: active
+run_id: 7c7e92ca130c44989b01faca5a297e09
+run_name: vaunted-koi-463
+run_uuid: 7c7e92ca130c44989b01faca5a297e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735150921075
+status: 3
+tags: []
+user_id: firdavs

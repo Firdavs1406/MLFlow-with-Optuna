@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606884294670295790/28ca018a7ce1484d96f323ab1234c946/artifacts
+end_time: 1735150596812
+entry_point_name: ''
+experiment_id: '606884294670295790'
+lifecycle_stage: active
+run_id: 28ca018a7ce1484d96f323ab1234c946
+run_name: popular-fox-912
+run_uuid: 28ca018a7ce1484d96f323ab1234c946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735150596532
+status: 4
+tags: []
+user_id: firdavs

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/228290746671565354/1b47b34e5fff4c5084ce46774b9e840e/artifacts
+end_time: 1735147672940
+entry_point_name: ''
+experiment_id: '228290746671565354'
+lifecycle_stage: active
+run_id: 1b47b34e5fff4c5084ce46774b9e840e
+run_name: illustrious-foal-828
+run_uuid: 1b47b34e5fff4c5084ce46774b9e840e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735147666719
+status: 4
+tags: []
+user_id: firdavs

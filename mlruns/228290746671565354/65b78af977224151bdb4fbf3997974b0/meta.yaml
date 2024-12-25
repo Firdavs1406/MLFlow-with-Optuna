@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/228290746671565354/65b78af977224151bdb4fbf3997974b0/artifacts
+end_time: 1735148035171
+entry_point_name: ''
+experiment_id: '228290746671565354'
+lifecycle_stage: active
+run_id: 65b78af977224151bdb4fbf3997974b0
+run_name: upbeat-bee-182
+run_uuid: 65b78af977224151bdb4fbf3997974b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735148009546
+status: 3
+tags: []
+user_id: firdavs

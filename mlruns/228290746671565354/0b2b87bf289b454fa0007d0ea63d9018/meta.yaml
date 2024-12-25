@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/228290746671565354/0b2b87bf289b454fa0007d0ea63d9018/artifacts
+deleted_time: 1735147647072
+end_time: 1735147524272
+entry_point_name: ''
+experiment_id: '228290746671565354'
+lifecycle_stage: deleted
+run_id: 0b2b87bf289b454fa0007d0ea63d9018
+run_name: traveling-turtle-512
+run_uuid: 0b2b87bf289b454fa0007d0ea63d9018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735147523919
+status: 4
+tags: []
+user_id: firdavs

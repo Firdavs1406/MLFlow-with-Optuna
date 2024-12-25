@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/228290746671565354/a456471b73254931913090a0d47ce31a/artifacts
+end_time: 1735148157977
+entry_point_name: ''
+experiment_id: '228290746671565354'
+lifecycle_stage: active
+run_id: a456471b73254931913090a0d47ce31a
+run_name: inquisitive-rat-900
+run_uuid: a456471b73254931913090a0d47ce31a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735148139643
+status: 3
+tags: []
+user_id: firdavs

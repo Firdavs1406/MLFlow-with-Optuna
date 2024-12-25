@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/228290746671565354/9675154516074ceaa83ca3d3ea328b4d/artifacts
+deleted_time: 1735147647062
+end_time: 1735147427747
+entry_point_name: ''
+experiment_id: '228290746671565354'
+lifecycle_stage: deleted
+run_id: 9675154516074ceaa83ca3d3ea328b4d
+run_name: upset-eel-828
+run_uuid: 9675154516074ceaa83ca3d3ea328b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735147427703
+status: 4
+tags: []
+user_id: firdavs

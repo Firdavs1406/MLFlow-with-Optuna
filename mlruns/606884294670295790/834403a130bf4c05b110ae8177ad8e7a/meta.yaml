@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606884294670295790/834403a130bf4c05b110ae8177ad8e7a/artifacts
+end_time: 1735150424019
+entry_point_name: ''
+experiment_id: '606884294670295790'
+lifecycle_stage: active
+run_id: 834403a130bf4c05b110ae8177ad8e7a
+run_name: carefree-crow-101
+run_uuid: 834403a130bf4c05b110ae8177ad8e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735150415322
+status: 4
+tags: []
+user_id: firdavs

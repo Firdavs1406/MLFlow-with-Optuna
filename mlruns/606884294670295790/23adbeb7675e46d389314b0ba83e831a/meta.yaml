@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606884294670295790/23adbeb7675e46d389314b0ba83e831a/artifacts
+end_time: 1735150651108
+entry_point_name: ''
+experiment_id: '606884294670295790'
+lifecycle_stage: active
+run_id: 23adbeb7675e46d389314b0ba83e831a
+run_name: able-turtle-343
+run_uuid: 23adbeb7675e46d389314b0ba83e831a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735150648801
+status: 4
+tags: []
+user_id: firdavs

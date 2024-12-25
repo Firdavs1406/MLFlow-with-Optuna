@@ -1,0 +1,11 @@
+digest: 8ce42171
+name: dataset
+profile: '{"num_rows": 80000, "num_elements": 480000}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "type", "required": true},
+  {"type": "double", "name": "amount", "required": true}, {"type": "double", "name":
+  "oldbalanceOrg", "required": true}, {"type": "double", "name": "newbalanceOrig",
+  "required": true}, {"type": "double", "name": "oldbalanceDest", "required": true},
+  {"type": "double", "name": "newbalanceDest", "required": true}]}'
+source: '{"tags": {"mlflow.user": "firdavs", "mlflow.source.name": "main.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735151107916
+current_stage: None
+description: ''
+last_updated_timestamp: 1735151107916
+name: Catboost_fraud
+run_id: 7c7e92ca130c44989b01faca5a297e09
+run_link: ''
+source: mlflow-artifacts:/606884294670295790/7c7e92ca130c44989b01faca5a297e09/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/606884294670295790/7c7e92ca130c44989b01faca5a297e09/artifacts/model
+user_id: null
+version: 3

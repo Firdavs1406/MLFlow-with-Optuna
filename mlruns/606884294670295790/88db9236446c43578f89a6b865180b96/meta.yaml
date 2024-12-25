@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606884294670295790/88db9236446c43578f89a6b865180b96/artifacts
+end_time: 1735150894374
+entry_point_name: ''
+experiment_id: '606884294670295790'
+lifecycle_stage: active
+run_id: 88db9236446c43578f89a6b865180b96
+run_name: fearless-duck-14
+run_uuid: 88db9236446c43578f89a6b865180b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735150894108
+status: 4
+tags: []
+user_id: firdavs

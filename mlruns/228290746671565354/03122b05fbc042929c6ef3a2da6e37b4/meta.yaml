@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/228290746671565354/03122b05fbc042929c6ef3a2da6e37b4/artifacts
+deleted_time: 1735147647067
+end_time: 1735147223711
+entry_point_name: ''
+experiment_id: '228290746671565354'
+lifecycle_stage: deleted
+run_id: 03122b05fbc042929c6ef3a2da6e37b4
+run_name: sneaky-mule-304
+run_uuid: 03122b05fbc042929c6ef3a2da6e37b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735147223683
+status: 4
+tags: []
+user_id: firdavs

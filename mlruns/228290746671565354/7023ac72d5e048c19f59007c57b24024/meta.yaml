@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/228290746671565354/7023ac72d5e048c19f59007c57b24024/artifacts
+deleted_time: 1735147647072
+end_time: 1735147604480
+entry_point_name: ''
+experiment_id: '228290746671565354'
+lifecycle_stage: deleted
+run_id: 7023ac72d5e048c19f59007c57b24024
+run_name: receptive-calf-825
+run_uuid: 7023ac72d5e048c19f59007c57b24024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735147597128
+status: 4
+tags: []
+user_id: firdavs

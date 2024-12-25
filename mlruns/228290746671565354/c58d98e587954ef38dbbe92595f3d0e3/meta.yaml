@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/228290746671565354/c58d98e587954ef38dbbe92595f3d0e3/artifacts
+deleted_time: 1735147647068
+end_time: 1735147399808
+entry_point_name: ''
+experiment_id: '228290746671565354'
+lifecycle_stage: deleted
+run_id: c58d98e587954ef38dbbe92595f3d0e3
+run_name: mysterious-steed-603
+run_uuid: c58d98e587954ef38dbbe92595f3d0e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735147399771
+status: 4
+tags: []
+user_id: firdavs

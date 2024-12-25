@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/228290746671565354/c1c67d79040b44a6a13d0966f2f20ccc/artifacts
+end_time: 1735149257710
+entry_point_name: ''
+experiment_id: '228290746671565354'
+lifecycle_stage: active
+run_id: c1c67d79040b44a6a13d0966f2f20ccc
+run_name: gaudy-jay-144
+run_uuid: c1c67d79040b44a6a13d0966f2f20ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735149243317
+status: 3
+tags: []
+user_id: firdavs

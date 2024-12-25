@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/606884294670295790
+creation_time: 1735150415132
+experiment_id: '606884294670295790'
+last_update_time: 1735150415132
+lifecycle_stage: active
+name: optuna_catboost_experiment
