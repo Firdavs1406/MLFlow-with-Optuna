@@ -1,4 +1,4 @@
-# HomeWork 2
+# MLFlow with Optuna
 
 ## Запуск проекта с интеграцией Optuna и MLFlow
 
