@@ -67,8 +67,7 @@ if __name__ == '__main__':
         mlflow.log_params(best_params)
         
         # Train best model
-        best_model = CatBoostClassifier(**best_params, verbose=False)
-        best_model.fit(train_data)
+        best_model = train_model(X_train, y_train, best_params, train_data)
         
         # Validate and log metrics
         accuracy = validate_model(best_model, X_test, y_test)
